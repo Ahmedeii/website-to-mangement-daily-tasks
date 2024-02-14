@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/website-to-mangement-daily-tasks/static/css/main.52261f8e.css",
+    "main.js": "/website-to-mangement-daily-tasks/static/js/main.d148f5da.js",
+    "service-worker.js": "/website-to-mangement-daily-tasks/service-worker.js",
+    "index.html": "/website-to-mangement-daily-tasks/index.html",
+    "main.52261f8e.css.map": "/website-to-mangement-daily-tasks/static/css/main.52261f8e.css.map",
+    "main.d148f5da.js.map": "/website-to-mangement-daily-tasks/static/js/main.d148f5da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52261f8e.css",
+    "static/js/main.d148f5da.js"
+  ]
+}
